@@ -1,6 +1,6 @@
 {
-  "name": "name_project",
-  "homepage": "https://yermakovaa.github.io/name_project",
+  "name": "goit-react-hw-04-hooks-feedback",
+  "homepage": "https://yermakovaa.github.io/goit-react-hw-04-hooks-feedback",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
